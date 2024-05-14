@@ -1,0 +1,3 @@
+/* Write an ES2015 Version */
+
+const filterOutOdds = (...args) => args.filter(v => v % 2 === 0)
